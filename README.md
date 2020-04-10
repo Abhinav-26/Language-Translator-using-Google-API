@@ -12,7 +12,7 @@ API stands for Application Programming Interface. It acts as an intermediate bet
 # How to use Application ?
 In terminal write : python3 translator.py
 
-If using IDLE then open translator.py file and run it.
+If using IDLE then open translator.py file and run it. Supports.py contains the code by which you can see how many languages does google api supports and then short forms which can be used in application.
 
 
 
