@@ -9,6 +9,8 @@ API stands for Application Programming Interface. It acts as an intermediate bet
 2. pip3 install SpeechRecognition
 3. pip3 install gtts
 
+# Application
+Let’s assume a scenario, we are traveling in Spain and we don’t know how to speak Spanish or we are in any other country and we don’t know their native language, then we can use this tool to overcome the problem. We can translate between all those languages which are present in google translator.
 # How to use Application ?
 In terminal write : python3 translator.py
 
